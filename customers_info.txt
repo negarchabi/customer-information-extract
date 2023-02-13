@@ -1,0 +1,6 @@
+Order Number,Customer Name,Ordered items (item1,item2, item3)
+1,Niki Ernst,1,2,3
+2,Arash Ahmadi,3,4,5
+3,Joseph Hansen,1,3,4
+4,Sara Fischer,0,1,1
+5,Hana Chekhov,2,1,2
